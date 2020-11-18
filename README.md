@@ -1,9 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-![Guilherme github stats](https://github-readme-stats.vercel.app/api?username=guilhermetrindade&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetrindade&show_icons=true&theme=radical)
+![Guilherme github stats](https://github-readme-stats.vercel.app/api?username=guilhermetrindade&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetrindade&layout=compact&theme=radical)
 
 
 
@@ -25,4 +24,6 @@
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
   <br/>
+  
+  ![nagln](https://komarev.com/ghpvc/?username=laxminagln&style=flat-square&label=Repo+Visits)
 
