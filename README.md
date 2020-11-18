@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<div align="center">
+<p align="center">
 ![Guilherme github stats](https://github-readme-stats.vercel.app/api?username=guilhermetrindade&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetrindade&layout=compact)
-</div>
+
 
 
 
