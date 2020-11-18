@@ -28,10 +28,8 @@
   <h3 align="center">Where you can find me:<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/guilhermevtrindade/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="guilherme.valverde@outlook.com" target="_blank" rel="noopener noreferrer"><img src="<img src="https://img.icons8.com/dusk/64/000000/ms-outlook.png" width="50"/></a>
-&nbsp; <a href="https://t.me/guilhermevt" target"_blank" rel="noopener noreferrer"><img src="<img src="<img src=<img src=https://www.flaticon.com/free-icon/telegram_906377?term=telegram&page=1&position=11 width="50"/></a>
-&nbsp; <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511954418111" target"_blank" rel="noopener noreferrer"><img src="<img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" width="50"/></a>
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
+|---|---|---|---|---|---|
 </p>
   
  ### Profile Views :<br>
