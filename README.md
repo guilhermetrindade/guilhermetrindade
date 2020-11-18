@@ -27,11 +27,15 @@
   <h3 align="center">Where you can find me:<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
-| <a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-&nbsp; &nbsp;
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
-&nbsp; &nbsp;
-|---|---|
+| <a href="https://www.linkedin.com/in/guilhermevtrindade/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;|
+<a href="guilherme.valverde@outlook.com?subject=Hello%20again"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;|
+<a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511954418111"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="30px" alt="Whatsapp"></a> 
+&nbsp; &nbsp;|
+<a href="https://t.me/guilhermevt"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="30px" alt="Telegram"></a> 
+&nbsp; &nbsp;|
+|---|---|---|---|
 </p>
   
  ### Profile Views :<br>
