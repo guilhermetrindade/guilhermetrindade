@@ -19,6 +19,7 @@
 
   
 ![github stats by guilhermetrindade](https://github-readme-stats.vercel.app/api?username=guilhermetrindade&count_private=true&show_icons=true)
+<br>
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetrindade&layout=compact)
 
 ---
