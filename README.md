@@ -18,7 +18,7 @@
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/guilhermevtrindade/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="guilherme.valverde@outlook.com" target="_blank" rel="noopener noreferrer"><img src="<img src="https://img.icons8.com/dusk/64/000000/ms-outlook.png" width="50"/></a>
-&nbsp; <a href="https://t.me/guilhermevt" target"_blank" rel="noopener noreferrer"><img src="<img src="<img src="https://img.icons8.com/offices/80/000000/sent.png" width="50"/></a>
+&nbsp; <a href="https://t.me/guilhermevt" target"_blank" rel="noopener noreferrer"><img src="<img src="<img src=<img src="https://img.icons8.com/offices/80/000000/sent.png" width="50"/></a>
 &nbsp; <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511954418111" target"_blank" rel="noopener noreferrer"><img src="<img src="<img src="https://img.icons8.com/doodle/48/000000/whatsapp.png" width="50"/></a>
 </p>
   
