@@ -1,5 +1,6 @@
 ### Hi there! Im Guilherme. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<br>
+
+---
 
 ### How about me 🚀
 
@@ -35,9 +36,9 @@
 &nbsp; &nbsp;|
 <a href="https://t.me/guilhermevt"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="30px" alt="Telegram"></a> 
 &nbsp; &nbsp;
-|---|---|---|---|
+|---|---|---|---|---|
 </p>
   
  ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+  <img src="https://profile-counter.glitch.me/guilhermetrindade/count.svg" />
 
