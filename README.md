@@ -11,16 +11,15 @@
 - 😄 Pronouns: him/he
 
 
-----
+---
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats?
 
-.
   
 ![github stats by guilhermetrindade](https://github-readme-stats.vercel.app/api?username=guilhermetrindade&count_private=true&show_icons=true)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetrindade&layout=compact)
 
--------
+---
 
 
 
@@ -28,7 +27,10 @@
   <h3 align="center">Where you can find me:<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/PrifyPhilip) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Amchuz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/prify-philip-343b53150/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](amchu1714@gmail.com)
+| <a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
 |---|---|---|---|---|---|
 </p>
   
