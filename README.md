@@ -2,7 +2,7 @@
 <br>
 
 ### How about me 🚀
-<br>
+
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on WEB Projects
 - 🤔 I’m looking for help with API (development)
@@ -34,7 +34,7 @@
 <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511954418111"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="30px" alt="Whatsapp"></a> 
 &nbsp; &nbsp;|
 <a href="https://t.me/guilhermevt"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="30px" alt="Telegram"></a> 
-&nbsp; &nbsp;|
+&nbsp; &nbsp;
 |---|---|---|---|
 </p>
   
