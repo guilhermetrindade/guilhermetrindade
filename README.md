@@ -1,9 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<br>
 
-<p align="center">
-![Guilherme github stats](https://github-readme-stats.vercel.app/api?username=guilhermetrindade&count_private=true&show_icons=true)
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+![github stats by guilhermetrindade](https://github-readme-stats.vercel.app/api?username=guilhermetrindade&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermetrindade&layout=compact)
-
+</details>
 
 
 
