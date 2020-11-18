@@ -31,7 +31,7 @@
 &nbsp; &nbsp;
 <a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
-|---|---|---|---|---|---|
+|---|---|
 </p>
   
  ### Profile Views :<br>
