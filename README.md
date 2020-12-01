@@ -4,8 +4,8 @@
 
 ### How about me 🚀
 
-- 🌏 I'm a Brazilian developer!
-- 🧐 I'm 20 years old!
+- 🌏 A Brazilian developer!
+- 🧐 20 years old!
 - 🎓 I'm in the last semester of college.
 - 🌱 I'm currently learning JavaScript.
 - 👯 I'm looking to collaborate on WEB projects.
