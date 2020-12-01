@@ -1,4 +1,4 @@
-### Hi there! Im Guilherme. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there! Im Guilherme <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ---
 
@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning JavaScript.
 - 👯 I'm looking to collaborate on WEB projects.
 - 💬 Ask me about hardware, games and Animes.
-- ⚡ Curiosity: if I am not found here, I will probably be eating! 😋
+- 💡 Curiosity: if I am not found here, I will probably be eating! 😋
 
 
 ---
