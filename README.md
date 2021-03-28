@@ -6,7 +6,7 @@
 
 - 🌏 A Brazilian developer!
 - 🧐 20 years old!
-- 🎓 I'm in the last semester of college.
+- 🎓 I'm graduating information systems .
 - 🌱 I'm currently learning JavaScript.
 - 👯 I'm looking to collaborate on WEB projects.
 - 💬 Ask me about hardware, games and Animes.
